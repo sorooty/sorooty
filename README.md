@@ -2,7 +2,7 @@
 <div>
   <p>👋 Hi, i'm Sensey!</p>
   <p>🎓 Currently an IT engineering student at CESI e.i, based in Dakar.</p>
-  <p>👨‍💻 Feel free to contact me for collabs, projects or else</p>
+  <p>👨‍💻 Feel free to contact me for collabs, projects or any coding-related subject</p>
   <p>📫 Contact : <a href="mailto:senseybalde@gmail.com"> senseybalde@gmail.com </a> </p>
 </div>
 
