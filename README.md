@@ -1,9 +1,9 @@
 # Hello World !
 <div>
-  <p>👋 Salut, je suis Seyni Jr Balde!</p>
-  <p>🎓 Je suis actuellement étudiant en informatique au CESI école d'ingénieur, basé à Dakar.</p>
-  <p>👨‍💻 N'hesitez pas à me contacter pour des collabs ou des projets</p>
-  <p>📫 Contact : senseybalde@gmail.com </p>
+  <p>👋 Hi, i'm Sensey!</p>
+  <p>🎓 Currently an IT engineering student at CESI e.i, based in Dakar.</p>
+  <p>👨‍💻 Feel free to contact me for collabs, projects or else</p>
+  <p>📫 Contact : <a href="mailto:senseybalde@gmail.com"> senseybalde@gmail.com </a> </p>
 </div>
 
 <picture>
